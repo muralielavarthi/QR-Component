@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: #D5E1EF;
+}
+.card{
+    width: 320px;
+    height: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    position: fixed;
+    margin: auto;
+    inset: 0px;
+}
+img{
+    max-width: 100%;
+    border-radius: 5px;
+}
+h3{
+    color:#1F314F;
+    font-size: 1rem;
+    padding: 10px;
+}
+p{
+  color: #7D889E; 
+  font-size: 0.5rem; 
+  padding: 5px;
+}
