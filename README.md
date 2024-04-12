@@ -1,2 +1,2 @@
-QR Component
-Basics HTML5, CSS3
+##QR Component
+###Basics HTML5, CSS3
